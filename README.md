@@ -1,4 +1,4 @@
-# ExtractionLib
+# ExtractionLib [![API](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=14)
 If you want to extract your jar file which is stored in your mobile internal storage, you don't have need to worry anymore, a lot of code is already there in library.
 <br>Just you have to configure a little code in your android activity.
 
@@ -20,7 +20,7 @@ If you want to extract your jar file which is stored in your mobile internal sto
 ```
 
 <h2>
-Now in your activity, call the Extract class method as follows
+Now in your activity, call the Extract class method with following prototype
 </h2>
 
 public class Extract extends ActivityCompat{
