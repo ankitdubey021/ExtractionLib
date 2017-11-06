@@ -1,5 +1,6 @@
 # ExtractionLib [![API](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=14)
-If you want to extract your jar file which is stored in your mobile internal storage, you don't have need to worry anymore, a lot of code is already there in library.
+
+Sometimes we need a lot of files to be downloaded from a server,we can download all of them in the form of jar and then extract your jar file which may carry images, excel files, etc, you don't have need to worry anymore, a lot of code is already there in library.
 <br>Just you have to configure a little code in your android activity.
 
 ```diff
@@ -80,7 +81,6 @@ public class Extract extends ActivityCompat{
         }
         
         
-        <br>
-        <br>
+       
         for any query, you can mail me at -> ankitdubey021@gmail.com
     }
